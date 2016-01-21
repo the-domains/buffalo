@@ -1,0 +1,28 @@
+name: Buffalo
+favicon: null
+layout_spectrum: 0.6469260302837938
+typography_spectrum: 0.1948414472863078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4821599896531552
+  lightness: 0.33041616692207754
+  saturation: 0.7861415224615484
+  rhythmicContrast: 0.09700904856435955
+purpose: []
